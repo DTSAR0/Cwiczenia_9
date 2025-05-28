@@ -1,0 +1,6 @@
+@APBD_EF_CodeFirst_Example_HostAddress = http://localhost:5283
+
+GET {{APBD_EF_CodeFirst_Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
